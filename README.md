@@ -1,4 +1,4 @@
-<img src="src/ui/assets/icons/lattice-logo.png" alt="Lattice Logo" width="40" align="left"> 
+<img src="src/ui/assets/icons/lattice-logo.png" alt="Lattice Logo" width="75" style="vertical-align: middle; margin-right: 10px; margin-bottom: -5px;"> 
 
 # Lattice
 
